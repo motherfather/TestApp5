@@ -16,5 +16,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="이 xml에서 모든걸 수행한다!!!" />
 </RelativeLayout>
